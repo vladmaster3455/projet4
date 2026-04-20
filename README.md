@@ -1,6 +1,6 @@
 # Fullstack Internship Demo (Next.js)
 
-Projet full stack realiste pour un profil ingenieur junior (bac+5), base sur Next.js App Router avec backend integre.
+.
 
 ## Stack technique
 
